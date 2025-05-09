@@ -5,6 +5,8 @@
 #기술/게임/과학 (1)
 #EXTINF:-1 tvg-chno="1320" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20250402T010403SQUARE.png" tvg-country="KR" group-title="기술/게임/과학",1320. OGN 스타리그
 https://jmp2.uk/sam-KRBC3200005SH.m3u8
+#EXTINF:-1 tvg-chno="1327" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20250402T010038SQUARE.png" tvg-country="KR" group-title="뉴스",1327. 글로벌 뉴스 by LeadStory
+https://jmp2.uk/sam-KRBD3100006X4.m3u8
 
 #뉴스 (7)
 #EXTINF:-1 tvg-chno="1321" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-country="KR" group-title="뉴스",1321. 연합뉴스TV
@@ -19,8 +21,6 @@ https://jmp2.uk/sam-KRBC46000173Y.m3u8
 https://jmp2.uk/sam-KRBB500039Y5.m3u8
 #EXTINF:-1 tvg-chno="1326" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20250402T005610SQUARE.png" tvg-country="KR" group-title="뉴스",1326. Bloomberg Originals
 https://jmp2.uk/sam-KRBB500044GP.m3u8
-#EXTINF:-1 tvg-chno="1327" tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20250402T010038SQUARE.png" tvg-country="KR" group-title="뉴스",1327. 글로벌 뉴스 by LeadStory
-https://jmp2.uk/sam-KRBD3100006X4.m3u8
 
 #드라마 (19)
 #EXTINF:-1 tvg-chno="1328" tvg-id="KRBB42000061Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20250422T100123SQUARE.png" tvg-country="KR" group-title="드라마",1328. SBS 야인시대
