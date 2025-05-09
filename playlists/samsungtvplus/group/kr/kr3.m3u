@@ -115,8 +115,6 @@ https://jmp2.uk/sam-KRBB420000769.m3u8
 https://jmp2.uk/sam-KRBD370000134.m3u8
 
 #Children
-#EXTINF:-1 tvg-chno="1370" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20250402T010131SQUARE.png" tvg-country="KR" group-title="어린이",1370. 투니버스 명탐정 코난 (자막)
-https://jmp2.uk/sam-KRBC32000200B.m3u8
 #EXTINF:-1 tvg-chno="1372" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20250423T010133SQUARE.png" tvg-country="KR" group-title="어린이",1372. 포켓몬
 https://jmp2.uk/sam-KRBC40000010R.m3u8
 #EXTINF:-1 tvg-chno="1373" tvg-id="KRBC32000126M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20250402T010538SQUARE.png" tvg-country="KR" group-title="어린이",1373. ch.핑크퐁
@@ -133,6 +131,8 @@ https://jmp2.uk/sam-KRBC3500013VH.m3u8
 https://jmp2.uk/sam-KR2500002QQ.m3u8
 #EXTINF:-1 tvg-chno="1949" tvg-id="KR700007M0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700007M0_20250402T010731SQUARE.png" tvg-country="KR" group-title="어린이",1949. Kids time
 https://jmp2.uk/sam-KR700007M0.m3u8
+#EXTINF:-1 tvg-chno="1370" tvg-id="KRBC32000200B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20250402T010131SQUARE.png" tvg-country="KR" group-title="어린이",1370. 투니버스 명탐정 코난 (자막)
+https://jmp2.uk/sam-KRBC32000200B.m3u8
 
 #영화 (4)
 #EXTINF:-1 tvg-chno="1379" tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20250402T010148SQUARE.png" tvg-country="KR" group-title="영화",1379. CJ ENM MOVIE
